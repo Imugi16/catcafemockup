@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/wlgh1/Documents/Unreal Projects/catcafemockup/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/wlgh1/Documents/Unreal Projects/catcafemockup/Content/Maps/StartMap.umap",
+				"C:/Users/wlgh1/Documents/Unreal Projects/catcafemockup/Content/Blueprints/Actors/BP_CoffeeMaker.uasset",
+				"C:/Users/wlgh1/Documents/Unreal Projects/catcafemockup/Content/Blueprints/Actors/BP_DisplayCase.uasset"
+			]
+		}
+	]
+}
